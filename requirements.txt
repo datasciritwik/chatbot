@@ -1,0 +1,8 @@
+streamlit
+langchain
+google-generativeai
+PyGithub
+chromadb
+langchain-community
+faiss-cpu
+langchain_google_genai
